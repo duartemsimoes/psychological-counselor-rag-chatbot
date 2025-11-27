@@ -16,7 +16,8 @@ This AI chatbot uses the OpenAI API in order to leverage the performance of gpt-
 
 ## An example interaction:
 
-python query_data.py "How to find love?"             
+### "How to find love?"
+
 Response: Short answer: find someone with whom you can be free and equal — someone you can trust and encourage, not control. Love is a practice built from self-knowledge, horizontal (equal) relationships, clear boundaries, and ongoing cooperation.
 
 How that follows from the dialogue
